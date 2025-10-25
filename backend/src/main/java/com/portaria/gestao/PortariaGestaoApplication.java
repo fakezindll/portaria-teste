@@ -10,4 +10,3 @@ public class PortariaGestaoApplication {
         SpringApplication.run(PortariaGestaoApplication.class, args);
     }
 }
-a
